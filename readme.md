@@ -16,6 +16,7 @@
 
 ### Laravel
 - [Laravel 5.1 Official Documentation](http://laravel.com/docs/5.1)
+- [Laravel PHP Components](https://github.com/illuminate)
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 - [Laravel 5 Essentials (Book)](https://www.packtpub.com/web-development/laravel-5-essentials)
 - [Learning Laravel’s Eloquent (Book)](https://www.packtpub.com/web-development/learning-laravel%E2%80%99s-eloquent)
@@ -24,7 +25,12 @@
 
 ### Useful Links
 - [Laracast](https://laracasts.com/)
+- [Laravel Forum](https://laracasts.com/discuss)
+- [Laravel.io](http://laravel.io/forum)
 - [Laravel News](https://laravel-news.com/blog/)
+- [Laravel Links](http://links.laravel-news.com/)
+- [Laravel Podcast](http://www.laravelpodcast.com/)
+- [Dayle Rees Blog](http://daylerees.com/)
 - [Matt Stauffer Blog](https://mattstauffer.co/blog)
 - [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
 - [Laravel Tricks](http://www.laravel-tricks.com/)
