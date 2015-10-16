@@ -16,14 +16,16 @@
 
 ### Laravel
 - [Laravel 5.1 Official Documentation](http://laravel.com/docs/5.1)
-- [Laravel PHP Components](https://github.com/illuminate)
+- [Laravel: From Apprentice To Artisan (Book)](https://leanpub.com/laravel)
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 - [Laravel 5 Essentials (Book)](https://www.packtpub.com/web-development/laravel-5-essentials)
 - [Learning Laravel’s Eloquent (Book)](https://www.packtpub.com/web-development/learning-laravel%E2%80%99s-eloquent)
 - [Mastering Laravel (Book)](https://www.packtpub.com/web-development/mastering-laravel)
+- [Laravel Testing Decoded (Book)](https://leanpub.com/laravel-testing-decoded)
 - [Laravel Design Patterns and Best Practices (Book)](https://www.packtpub.com/web-development/laravel-design-patterns-and-best-practices)
 
 ### Useful Links
+- [Laravel PHP Components](https://github.com/illuminate)
 - [Laracast](https://laracasts.com/)
 - [Laravel Forum](https://laracasts.com/discuss)
 - [Laravel.io](http://laravel.io/forum)
