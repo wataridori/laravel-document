@@ -1,5 +1,6 @@
 ## References
 
+- [Laravel 5 from scratch](https://laracasts.com/series/laravel-5-from-scratch)
 - [Laracast](https://laracasts.com/)
 - [Laravel Forum](https://laracasts.com/discuss)
 - [Laravel.io](http://laravel.io/forum)

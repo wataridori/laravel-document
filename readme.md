@@ -21,14 +21,14 @@
 
 #### [Laravel](./training.md#laravel)
 
-#### [Javascript & CSS](./training#javascript--css)
+#### [Javascript & CSS](./training.md#javascript--css)
 
 ### Advanced
 #### [PHP](./training.md#php-1)
 
 #### [Laravel](./training.md#laravel-1)
 
-#### [Javascript & CSS](./training#javascript--css-1)
+#### [Javascript & CSS](./training.md#javascript--css-1)
 
 ## Libraries
 #### [Libraries](./libraries.md)
