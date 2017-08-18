@@ -6,7 +6,7 @@
 - [PHP The Right Way](http://www.phptherightway.com/)
 
 ### Laravel
-- [Laravel 5.1 Official Documentation](http://laravel.com/docs/5.1)
+- [Laravel Latest Version Official Documentation](http://laravel.com/docs/master)
 - [Laravel PHP Components](https://github.com/illuminate)
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 - [Laravel 5 Essentials (Book)](https://www.packtpub.com/web-development/laravel-5-essentials)

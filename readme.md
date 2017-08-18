@@ -1,8 +1,8 @@
 # Framgia Laravel Documents
 
 ## Version
-- Laravel version: >= 5.1.11
-- PHP Version: >= 5.5 (5.6 Recommended)
+- Laravel version: >= 5.4
+- PHP Version: >= 7.1
 
 ## Coding Convention
 - [Framgia PHP Coding Standards](https://github.com/framgia/coding-standards/blob/master/eng/README.md#php)
