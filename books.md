@@ -6,6 +6,8 @@
 - [PHP The Right Way](http://www.phptherightway.com/)
 
 ### Laravel
+- [Laravel: From Apprentice To Artisan](https://leanpub.com/laravel) **MUST READ**
+- [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) **MUST READ**
 - [Laravel Latest Version Official Documentation](http://laravel.com/docs/master)
 - [Laravel PHP Components](https://github.com/illuminate)
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
